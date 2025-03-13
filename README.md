@@ -63,6 +63,10 @@ Start the backend server:
 
 python manage.py runserver
 
+Activate the virtual environment:
+
+myenv\Scripts\activate
+
 Frontend Setup
 
 Navigate to the frontend directory:
