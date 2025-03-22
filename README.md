@@ -52,7 +52,7 @@ cd ai-chat-analysis/backend
 Create a virtual environment and install dependencies:
 
 python -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+source venv/bin/activate  # On Windows, use `myenv\Scripts\activate`
 pip install -r requirements.txt
 
 Apply database migrations:
